@@ -98,6 +98,7 @@ Sample log file used in this project:
 ## 📘 Author
 
 Jerome Arsany
+
 Course: Information Security Management – May 2025
 
 ---
