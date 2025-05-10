@@ -97,8 +97,8 @@ Sample log file used in this project:
 
 ## 📘 Author
 
-[Your Name]  
-Course: [Course Name] – May 2025
+Jerome Arsany
+Course: Information Security Management – May 2025
 
 ---
 
