@@ -38,40 +38,6 @@ To save the output to a file:
 
 ---
 
-## 📊 What the Script Does
-
-- Counts total, GET, and POST requests  
-- Identifies all unique IPs and how many GET/POST requests each made  
-- Calculates number and percentage of failed requests (4xx/5xx)  
-- Identifies the most active IP address  
-- Computes average number of requests per day  
-- Shows failure requests per day  
-- Displays number of requests per hour  
-- Breaks down status codes (e.g., 200, 404, 500)  
-- Finds top IPs using GET or POST  
-- Detects failure patterns by hour
-
----
-
-## 🔍 Sample Log File Source
-
-Sample log downloaded from:  
-[https://raw.githubusercontent.com/elastic/examples/master/Common%20Data%20Formats/apache_logs/apache_logs](https://raw.githubusercontent.com/elastic/examples/master/Common%20Data%20Formats/apache_logs/apache_logs)
-
----
-
-## 📘 Author
-
-[Your Name]  
-Course: [Course Name] – May 2025
-
----
-
-## 📄 License
-
-This project is for educational and academic use only.
-
----
 
 ## 📊 What the Script Does
 
